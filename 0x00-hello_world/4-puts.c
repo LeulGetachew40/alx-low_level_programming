@@ -3,7 +3,7 @@
 int main(void)
 {
 char str[70];
-strcpy(str,"\"Programming is like building a multilingual puzzle");
+strcpy(str, "\"Programming is like building a multilingual puzzle");
 puts(str);
-return(0);
+return (0);
 }
