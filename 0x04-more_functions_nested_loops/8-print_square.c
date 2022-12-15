@@ -2,7 +2,7 @@
 /**
 *print_square - prints a square of a size.
 *@size: the parameter passed.
-*Return: Aways 0.
+*Return: Always 0.
 */
 void print_square(int size)
 {
@@ -22,5 +22,4 @@ _putchar('#');
 _putchar('\n');
 }
 }
-_putchar('\n');
 }
