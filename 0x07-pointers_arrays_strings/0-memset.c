@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _memset: fills the first n bytes of the memory area pointed by s.
  *@s: pointer block of memory to fill
@@ -7,7 +6,9 @@
  *@n: bytes of the memory
  *Return: dest
 */
+
 char *_memset(char *s, char b, unsigned int n)
+
 {
 unsigned int i;
 
